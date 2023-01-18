@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevenluo23
 - 👀 I’m interested in web development and programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Github
 
