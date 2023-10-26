@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevenluo23
+- 👋 Hi, I’m Steven Luo. Currently, I am an undergraduate student studying Computer Science at the University of Utah.
 - 👀 I’m interested in .. EdTech, machine learning, and aerospace
 - 🌱 I’m currently learning .. Java
 - 💞️ I’m looking to collaborate on .. nothing at the moment
