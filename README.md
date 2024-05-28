@@ -2,7 +2,7 @@
 
 - 👨‍💻 Undergraduate Research Assistant & CS @ The University of Utah
 
-- 🔭 I’m currently working on [my Rubik's Cube web app](https://github.com/stevenluo23/rubiks-cube-app)
+- 🔭 I’m currently working on a full-stack EdTech project as part of my research
 
 - 🌱 I’m currently learning **React.js, TypeScript**
 
