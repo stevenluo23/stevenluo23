@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on a full-stack EdTech project as part of my research
 
-- 🌱 I’m currently learning **React.js, TypeScript**
-
 - 💬 Ask me about **ping pong & mechanical keyboards**
 
 <h3 align="left">Connect with me:</h3>
