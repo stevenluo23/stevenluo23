@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Steven Luo</h1>
 
-- 👨‍💻 Undergraduate Research Assistant & CS @ The University of Utah
-
-- 🔭 I’m currently working on a full-stack EdTech project as part of my research
+- 👨‍💻 CS @ The University of Utah
 
 - 💬 Ask me about **ping pong & mechanical keyboards**
 
