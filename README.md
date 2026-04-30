@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/stevenluo23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stevenluo23" height="30" width="40" /></a>
 &ensp;
+
 <a href="mailto:luosteven23@gmail.com" target="_blank"><img src="https://github.com/stevenluo23/stevenluo23/assets/76457271/c51bbf70-3d86-4257-ba51-a33e387d3e99" height="30" width="40" /></a>
 
 ## 💻 Tech Stack:
